@@ -1,0 +1,5 @@
+numpy==2.2.6
+scipy==1.13.1
+sympy==1.14.0
+matplotlib==3.10.3
+pytest==8.4.2

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the paper and this verification companion. Publication identifiers will be filled after release."
+title: "Alias Geometry and Density Compensation in Perturbed Fourier Sampling"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Wind-Andersen
+    given-names: Erli
+    affiliation: Icahn School of Medicine at Mount Sinai
+    email: erli.wind-andersen@mssm.edu
+license: MIT
+# repository-code: REPO_URL
+# doi: DOI_URL
+# Paper arXiv identifier: ARXIV_ID
+# These placeholders are comments so this file remains valid CFF before release.
