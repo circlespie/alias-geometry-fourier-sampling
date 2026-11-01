@@ -26,5 +26,5 @@ external files are needed. PDFs have timestamp metadata suppressed; floating-poi
 roundoff and PDF byte output can vary across platforms and dependency versions.
 
 Use [CITATION.cff](CITATION.cff) to cite this companion. Paper: [arXiv](ARXIV_URL).
-Repository: REPO_URL. Archive DOI: DOI_URL. These placeholders will be filled
-on release; see [PUBLISH_STEPS.md](PUBLISH_STEPS.md).
+Repository: https://github.com/circlespie/alias-geometry-fourier-sampling. The arXiv link will be filled after submission;
+see [PUBLISH_STEPS.md](PUBLISH_STEPS.md).

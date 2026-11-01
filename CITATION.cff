@@ -9,7 +9,6 @@ authors:
     affiliation: Icahn School of Medicine at Mount Sinai
     email: erli.wind-andersen@mssm.edu
 license: MIT
-# repository-code: REPO_URL
-# doi: DOI_URL
+repository-code: "https://github.com/circlespie/alias-geometry-fourier-sampling"
 # Paper arXiv identifier: ARXIV_ID
-# These placeholders are comments so this file remains valid CFF before release.
+# The arXiv placeholder is a comment so this file remains valid CFF before submission.
